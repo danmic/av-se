@@ -94,7 +94,7 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * SDR / SIR / SAR (BSS Eval) [[paper]](https://www.irisa.fr/metiss/gribonval/Papers/2006/2006_IEEE_TSAP_VincentFevGrib.pdf) [[code]](http://bass-db.gforge.inria.fr/bss_eval/)
 
-* SDI [[paper]](ftp://ftp.esat.kuleuven.ac.be/SISTA/doclo/reports/04-239.pdf)
+* SDI [[paper]](https://uol.de/f/6/dept/mediphysik/ag/sigproc/download/papers/doclo/journal_wiener.pdf)
 
 * SI-SDR [[paper]](https://arxiv.org/pdf/1811.02508.pdf) [[code]](https://github.com/sigsep/bsseval/issues/3#issuecomment-494995846)
 
