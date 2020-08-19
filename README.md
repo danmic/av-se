@@ -13,6 +13,7 @@ If you like and use this work, please :star: and consider citing our overview ar
 	Year = {-}
     }
 
+![img](img/av.png)
 
 ## Table of Contents  
 - [Audio-Visual Speech Corpora](#audio-visual-speech-corpora)
