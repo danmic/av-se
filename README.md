@@ -4,7 +4,7 @@ This document provides a list of resources on audio-visual speech enhancement an
 
 Our intention is to update the list, when new material on the topic is released. Feel free to propose changes or point out a resource that should be included.
 
-If you like and use this work, please :star: and consider citing our overview article. This will highlight the interest of the community on our work.
+If you like and use this work, please :star: and consider citing our overview article. This will highlight the interest of the community in our work.
 
     @inproceedings{-,
 	Author = {-},
