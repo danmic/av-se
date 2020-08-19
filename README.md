@@ -59,7 +59,7 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * NTCD-TIMIT [[paper]](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0860.PDF) [[dataset page]](https://zenodo.org/record/260228#.XzqK5y17HOQ)
 
-* Obama Weekly Addresses [[dataset page]](https://arxiv.org/pdf/1711.08789)
+* Obama Weekly Addresses [[paper]](https://arxiv.org/pdf/1711.08789)
 
 * OuluVS [[paper]](http://www.ee.oulu.fi/~gyzhao/Papers/2009/Lipreading%20with%20Local%20Spatiotemporal.pdf) [[dataset page]](https://www.oulu.fi/cmvs/node/41315)
 
@@ -80,7 +80,7 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 ### Estimators of speech quality based on perceptual models 
 
-* CSIG / CBAK / COVRL [[paper]](https://ecs.utdallas.edu/loizou/speech/obj_paper_jan08.pdf) [[unofficial code]](https://github.com/nanahou/Awesome-Speech-Enhancement/tree/master/tools)
+* CSIG / CBAK / COVRL [[paper]](https://ecs.utdallas.edu/loizou/speech/obj_paper_jan08.pdf)
 
 * HASQI [[paper v1]](https://www.aes.org/e-lib/browse.cfm?elib=15451) [[paper v2]](https://www.aes.org/e-lib/browse.cfm?elib=17126) [[code]](https://www.colorado.edu/lab/hearlab/resources)
 
@@ -114,6 +114,105 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 
 ## Audio-Visual Speech Enhancement and Separation
+
+* A. Adeel, J. Ahmad, H. Larijani, and A. Hussain, “A novel real-time, lightweight chaotic-encryption scheme for next-generation audio-visual hearing aids,” Cognitive Computation, vol. 12, no. 3, pp. 589–601, 2019. [[paper]](https://link.springer.com/article/10.1007%2Fs12559-019-09653-z)
+
+* A. Adeel, M. Gogate, and A. Hussain, “Towards next-generation lip-reading driven hearing-aids: A preliminary prototype demo,” in Proc. of CHAT, 2017. [[paper]](http://spandh.dcs.shef.ac.uk/chat2017/papers/CHAT_2017_adeel.pdf) [[demo]](https://cogbid.github.io/cogavhearingdemo/)
+
+* A. Adeel, M. Gogate, and A. Hussain, “Contextual deep learning-based audio-visual switching for speech enhancement in real-world environments,” Information Fusion, vol. 59, pp. 163–170, 2020. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253518306018)
+
+* A. Adeel, M. Gogate, A. Hussain, and W. M. Whitmer, “Lip-reading driven deep learning approach for speech enhancement,” IEEE Transactions on Emerging Topics in Computational Intelligence, 2019. [[paper]](https://arxiv.org/pdf/1808.00046.pdf)
+
+* T. Afouras, J. S. Chung, and A. Zisserman, “The conversation: Deep audio-visual speech enhancement,” Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/1804.04121) [[project page]](http://www.robots.ox.ac.uk/~vgg/demo/theconversation/) [[demo 1]](https://www.youtube.com/watch?v=2TWotLwutkI&feature=youtu.be) [[other demos]](http://www.robots.ox.ac.uk/~vgg/demo/theconversation/)
+
+* T. Afouras, J. S. Chung, and A. Zisserman, “My lips are concealed: Audio-visual speech enhancement through obstructions,” in Proc. of Interspeech, 2019. [[paper]](https://arxiv.org/pdf/1907.04975) [[project page]](http://www.robots.ox.ac.uk/~vgg/research/concealed) [[demo]](http://www.robots.ox.ac.uk/~vgg/research/concealed/)
+
+* Z. Aldeneh, A. P. Kumar, B.-J. Theobald, E. Marchi, S. Kajarekar, D. Naik, and A. H. Abdelaziz, “Self-supervised learning of visual speech features with audiovisual speech enhancement,” arXiv preprint arXiv:2004.12031, 2020. [[paper]](https://arxiv.org/pdf/2004.12031)
+
+* A. Arriandiaga, G. Morrone, L. Pasa, L. Badino, and C. Bartolozzi, “Audio-visual target speaker extraction on multi-talker environment using event-driven cameras,” arXiv preprint arXiv:1912.02671, 2019. [[paper]](https://arxiv.org/pdf/1912.02671.pdf)
+
+* S.-Y. Chuang, Y. Tsao, C.-C. Lo, and H.-M. Wang, “Lite audio-visual speech enhancement,” in Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.11769) [[code]](https://github.com/kagaminccino/LAVSE)
+
+* S.-W. Chung, S. Choe, J. S. Chung, and H.-G. Kang, “Facefilter:
+Audio-visual speech separation using still images,” arXiv preprint
+arXiv:2005.07074, 2020. [[paper]](https://arxiv.org/pdf/2005.07074.pdf) [[demo]](https://youtu.be/ku9xoLh62E4)
+
+* A. Ephrat, I. Mosseri, O. Lang, T. Dekel, K. Wilson, A. Hassidim, W. T. Freeman, and M. Rubinstein, “Looking to listen at the cocktail party: A speaker-independent audio-visual model for speech separation,” ACM Transactions on Graphics, vol. 37, no. 4, pp. 112:1–112:11, 2018. [[paper]](https://arxiv.org/pdf/1804.03619.pdf) [[project page]](https://looking-to-listen.github.io) [[demo]](https://www.youtube.com/watch?v=rVQVAPiJWKU&feature=emb_title) [[supplementary material]](https://looking-to-listen.github.io/supplemental/index.html)
+
+* A. Gabbay, A. Ephrat, T. Halperin, and S. Peleg, “Seeing through noise: Visually driven speaker separation and enhancement,” in Proc. of ICASSP, 2018. [[paper]](https://arxiv.org/pdf/1708.06767.pdf) [[project page]](http://www.vision.huji.ac.il/speaker-separation/) [[demo]](https://www.youtube.com/watch?v=qmsyj7vAzoI&feature=emb_title) [[code]](https://github.com/avivga/cocktail-party)
+
+* A. Gabbay, A. Shamir, and S. Peleg, “Visual speech enhancement,” Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/1711.08789.pdf) [[project page]](http://www.vision.huji.ac.il/visual-speech-enhancement/) [[demo 1]](https://www.youtube.com/watch?v=nyYarDGpcYA&feature=emb_title) [[other demos]](http://www.vision.huji.ac.il/visual-speech-enhancement/) [[code]](https://github.com/avivga/audio-visual-speech-enhancement)
+
+* M. Gogate, A. Adeel, R. Marxer, J. Barker, and A. Hussain, “DNN
+driven speaker independent audio-visual mask estimation for speech
+separation,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/1808.00060.pdf)
+
+* M. Gogate, K. Dashtipour, A. Adeel, and A. Hussain, “Cochleanet: A robust language-independent audio-visual model for speech enhancement,” Information Fusion, vol. 63, pp. 273–285, 2020. [[paper]](https://arxiv.org/pdf/1909.10407.pdf) [[project page]](https://cochleanet.github.io) [[demo]](https://vimeo.com/357546330) [[supplementary material]](https://cochleanet.github.io/supplementary/)
+
+* R. Gu, S.-X. Zhang, Y. Xu, L. Chen, Y. Zou, and D. Yu, “Multi-modal multi-channel target speech separation,” IEEE Journal of Selected Topics in Signal Processing, 2020. [[paper]](https://arxiv.org/pdf/2003.07032.pdf) [[project page]](https://moplast.github.io) [[demo]](https://moplast.github.io)
+
+* J.-C. Hou, S.-S. Wang, Y.-H. Lai, Y. Tsao, H.-W. Chang, and H.- M. Wang, “Audio-visual speech enhancement using multimodal deep convolutional neural networks,” IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 2, no. 2, pp. 117–128, 2018. [[paper]](https://arxiv.org/pdf/1703.10893.pdf)
+
+* J.-C. Hou, S.-S. Wang, Y.-H. Lai, J.-C. Lin, Y. Tsao, H.-W. Chang, and H.-M. Wang, “Audio-visual speech enhancement using deep neural networks,” in Proc. of APSIPA, 2016. [[paper]](https://www.citi.sinica.edu.tw/papers/yu.tsao/5427-F.pdf)
+
+* A. Hussain, J. Barker, R. Marxer, A. Adeel, W. Whitmer, R. Watt, and P. Derleth, “Towards multi-modal hearing aid design and evaluation in realistic audio-visual settings: Challenges and opportunities,” in Proc. of CHAT, 2017. [[paper]](http://spandh.dcs.shef.ac.uk/chat2017/papers/CHAT_2017_hussain.pdf) 
+
+* E. Ideli, “Audio-visual speech processing using deep learning techniques.” MSc thesis, Applied Sciences: School of Engineering Science, 2019. [[paper]](https://summit.sfu.ca/item/19744)
+
+* E. Ideli, B. Sharpe, I. V. Bajić, and R. G. Vaughan,“Visually assisted time-domain speech enhancement,” in Proc. of GlobalSIP, 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8969244)
+
+* B. İnan, M. Cernak, H. Grabner, H. P. Tukuljac, R. C. Pena, and
+B. Ricaud, “Evaluating audiovisual source separation in the context of video conferencing,” Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2671.pdf) [[code]](https://github.com/berkayinan/audiovisual-separation-for-vc)
+
+* M. L. Iuzzolino and K. Koishida, “AV(SE)²: Audio-visual squeeze- excite speech enhancement,” in Proc. of ICASSP. IEEE, 2020, pp. 7539–7543. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054528)
+
+* H. R. V. Joze, A. Shaban, M. L. Iuzzolino, and K. Koishida, “MMTM: Multimodal transfer module for CNN fusion,” Proc. of CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Joze_MMTM_Multimodal_Transfer_Module_for_CNN_Fusion_CVPR_2020_paper.pdf)
+
+* F. U. Khan, B. P. Milner, and T. Le Cornu, “Using visual speech information in masking methods for audio speaker separation,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 26, no. 10, pp. 1742–1754, 2018. [[paper]](https://ueaeprints.uea.ac.uk/id/eprint/67404/1/ieee_speaker_separation_2015_v4.0.pdf) 
+
+* C. Li and Y. Qian, “Deep audio-visual speech separation with attention mechanism,” in Proc. of ICASSP, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054180)
+
+* Y. Li, Z. Liu, Y. Na, Z. Wang, B. Tian, and Q. Fu, “A visual-pilot deep fusion for target speech separation in multitalker noisy environment,” in Proc. of ICASSP, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054263)
+
+* R. Lu, Z. Duan, and C. Zhang, “Listen and look: Audio–visual matching assisted speech source separation,” IEEE Signal Processing Letters, vol. 25, no. 9, pp. 1315–1319, 2018. [[paper]](http://www2.ece.rochester.edu/projects/air/publications/lu2018listen.pdf)
+
+* R. Lu, Z. Duan, and C. Zhang, “Audio–visual deep clustering for speech separation, ”IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 27, no. 11, pp. 1697–1712, 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8762221)
+
+* Y. Luo, J. Wang, X. Wang, L. Wen, and L. Wang, “Audio-visual speech separation using i-Vectors,” in Proc. of ICICSP, 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8958547)
+
+* D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “On training targets and objective functions for deep-learning-based audio-visual speech enhancement,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.06234.pdf) [[supplementary material]](http://kom.aau.dk/~zt/online/icassp2019_sup_mat.pdf)
+
+* D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “Deep- learning-based audio-visual speech enhancement in presence of Lombard effect,” Speech Communication, vol. 115, pp. 38–50, 2019. [[paper]](https://arxiv.org/pdf/1905.12605.pdf) [[demo]](https://www.youtube.com/watch?v=IRlaU0EMeOg)
+
+* D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “Effects of Lombard reflex on the performance of deep-learning-based audio-visual speech enhancement systems,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.06250.pdf) [[demo]](https://vbn.aau.dk/en/activities/demo-effects-of-lombard-reflex-on-deep-learning-based-audio-visua)
+
+* G. Morrone, S. Bergamaschi, L. Pasa, L. Fadiga, V. Tikhanoff, and L. Badino, “Face landmark-based speaker-independent audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.02480.pdf) [[project page]](https://dr-pato.github.io/audio_visual_speech_enhancement/) [[demo]](https://www.youtube.com/watch?v=YQ0q-OFphKM&feature=emb_title) [[other demos]](https://dr-pato.github.io/audio_visual_speech_enhancement/) [[code]](https://github.com/dr-pato/audio_visual_speech_enhancement)
+
+* T. Ochiai, M. Delcroix, K. Kinoshita, A. Ogawa, and T. Nakatani, “Multimodal SpeakerBeam: Single channel target speech extraction with audio-visual speaker clues,” Proc. Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1513.pdf)
+
+* A. Owens and A. A. Efros, “Audio-visual scene analysis with self-supervised multisensory features,” in Proc. of ECCV, 2018. [[paper]](https://arxiv.org/pdf/1804.03641.pdf) [[project page]](http://andrewowens.com/multisensory) [[demo]](https://www.youtube.com/watch?v=rwCIRu_hAJ8&feature=emb_title) [[code]](https://github.com/andrewowens/multisensory)
+
+* L. Pasa, G. Morrone, and L. Badino, “An analysis of speech enhancement and recognition losses in limited resources multi-talker single channel audio-visual ASR,” in Proc. of ICASSP, 2020. [[paper]](https://arxiv.org/pdf/1904.08248.pdf)
+
+* L. Qu, C. Weber, and S. Wermter, “Multimodal target speech separation with voice and face references,” arXiv preprint arXiv:2005.08335, 2020. [[paper]](https://arxiv.org/pdf/2005.08335.pdf) [[project page]](leyuanqu.github.io/INTERSPEECH2020) [[demo]](leyuanqu.github.io/INTERSPEECH2020)
+
+* M. Sadeghi and X. Alameda-Pineda, “Mixture of inference networks for VAE-based audio-visual speech enhancement,” arXiv preprint arXiv:1912.10647, 2019. [[paper]](https://arxiv.org/pdf/1912.10647.pdf) [[project page]](https://team.inria.fr/perception/research/min-vae-se/) [[demo]](https://team.inria.fr/perception/research/min-vae-se/#audio)
+
+* M. Sadeghi and X. Alameda-Pineda, “Robust unsupervised audio-visual speech enhancement using a mixture of variational autoencoders,” in Proc. of ICASSP, 2020. [[paper]](https://arxiv.org/pdf/1911.03930.pdf) [[project page]](https://team.inria.fr/perception/research/vae-mm-se/) [[supplementary material]](https://team.inria.fr/perception/files/2019/10/vae_mm_supp.pdf)
+
+* M. Sadeghi, S. Leglaive, X. Alameda-Pineda, L. Girin, and R. Horaud, “Audio-visual speech enhancement using conditional variational autoencoders,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1788–1800, 2020. [[paper]](https://arxiv.org/pdf/1908.02590.pdf) [[project page]](https://team.inria.fr/perception/research/av-vae-se/) [[demo]](https://team.inria.fr/perception/research/av-vae-se/)
+
+* Z. Sun, Y. Wang, and L. Cao, “An attention based speaker-independent audio-visual deep learning model for speech enhancement,” in Proc. of MMM, 2020. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_60)
+
+* K. Tan, Y. Xu, S.-X. Zhang, M. Yu, and D. Yu, “Audio-visual speech separation and dereverberation with a two-stage multimodal network,” IEEE Journal of Selected Topics in Signal Processing, vol. 14, no. 3, pp. 542–553, 2020. [[paper]](https://arxiv.org/pdf/1909.07352.pdf) [[project page]](https://jupiterethan.github.io/av-enh.github.io/) [[demo]](https://jupiterethan.github.io/av-enh.github.io/)
+
+* W. Wang, C. Xing, D. Wang, X. Chen, and F. Sun, “A robust audio-visual speech enhancement model,” in Proc. of ICASSP, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9053033)
+
+* J. Wu, Y. Xu, S.-X. Zhang, L.-W. Chen, M. Yu, L. Xie, and D. Yu, “Time domain audio visual speech separation,” in Proc. of ASRU, 2019. [[paper]](https://arxiv.org/pdf/1904.03760.pdf) [[project page]](https://funcwj.github.io/online-demo/page/tavs) [[demo]](https://funcwj.github.io/online-demo/page/tavs)
+
+* Z. Wu, S. Sivadas, Y. K. Tan, M. Bin, and R. S. M. Goh,“Multi-modal hybrid deep neural network for speech enhancement,” arXiv preprint arXiv:1606.04750, 2016. [[paper]](https://arxiv.org/pdf/1606.04750.pdf) 
+
+* Y. Xu, M. Yu, S.-X. Zhang, L. Chen, C. Weng, J. Liu, and D. Yu, “Neural spatio-temporal beamformer for target speech separation,” Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.03889.pdf) [[project page]](https://yongxuustc.github.io/mtmvdr) [[demo]](https://yongxuustc.github.io/mtmvdr)
 
 
 ## Speech Reconstruction From Silent Videos
@@ -183,7 +282,6 @@ If you like and use this work, please :star: and consider citing our overview ar
 * D. L. Wang and J. Chen, “Supervised speech separation based on deep learning: An overview,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2018. [[paper]](https://arxiv.org/pdf/1708.07524.pdf)
 
 * H. Zhu, M. Luo, R. Wang, A. Zheng, and R. He, “Deep audio-visual learning: A survey,” arXiv preprint arXiv:2001.04758, 2020. [[paper]](https://arxiv.org/pdf/2001.04758.pdf)
-
 
 
 
