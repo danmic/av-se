@@ -1,17 +1,17 @@
 # Deep-Learning-Based Audio-Visual Speech Enhancement and Separation
 
-This document provides a list of resources on audio-visual speech enhancement and separation based on deep learning. It can be seen as an appendix to [the overview paper that we recently wrote]().
+This document provides a list of resources on audio-visual speech enhancement and separation based on deep learning. It can be seen as an appendix to [the overview paper that we recently wrote](https://arxiv.org/abs/2008.09586).
 
 Our intention is to update the list, when new material on the topic is released. Feel free to propose changes or point out a resource that should be included.
 
 If you like and use this work, please :star: and consider citing our overview article. This will highlight the interest of the community in our work.
 
-    @inproceedings{-,
-	Author = {-},
-	Title = {-},
-	Booktitle  = {-},
-	Year = {-}
-    }
+    @misc{michelsanti2020overview,
+	Author = {Daniel Michelsanti and Zheng-Hua Tan and Shi-Xiong Zhang and Yong Xu and Meng Yu and Dong Yu and Jesper Jensen},
+	Title = {An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation},
+	eprint={2008.09586},
+    archivePrefix={arXiv},
+	Year = {2020}}
 
 ![img](img/av.png)
 
