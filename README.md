@@ -238,6 +238,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * K. Prajwal, R. Mukhopadhyay, V. P. Namboodiri, and C. Jawahar, “Learning individual speaking styles for accurate lip to speech synthesis,” in Proc. of CVPR, 2020. [[paper]](https://arxiv.org/pdf/2005.08209.pdf) [[project page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/speaking-by-observing-lip-movements) [[demo]](https://www.youtube.com/watch?v=HziA-jmlk_4&feature=youtu.be) [[code]](https://github.com/Rudrabha/Lip2Wav)
 
+* L. Qu, C. Weber, and S. Wermter. "LipSound: Neural Mel-Spectrogram Reconstruction for Lip Reading," in Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1393.pdf) [[demo]](https://soundcloud.com/user-612210805/sets/video-to-mel)
+
 * Y. Takashima, T. Takiguchi, and Y. Ariki, “Exemplar-based lip-to-speech synthesis using convolutional neural networks,” in Proc. of IW-FCV, 2019. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/pdf/2019/O1-4.pdf)
 
 * S. Uttam, Y. Kumar, D. Sahrawat, M. Aggarwal, R. R. Shah, D. Mahata, and A. Stent, “Hush-hush speak: Speech reconstruction using silent videos,” in Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3269.pdf) [[demo]](https://drive.google.com/open?id=1ZWS4L3SaZyb7SNwTaMpY96uJRYfFcVEG) [[code]](https://github.com/midas-research/hush-hush-speak)
