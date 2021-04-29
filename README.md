@@ -6,12 +6,15 @@ Our intention is to update the list, when new material on the topic is released.
 
 If you like and use this work, please :star: and consider citing our overview article. This will highlight the interest of the community in our work.
 
-    @misc{michelsanti2020overview,
-	Author = {Daniel Michelsanti and Zheng-Hua Tan and Shi-Xiong Zhang and Yong Xu and Meng Yu and Dong Yu and Jesper Jensen},
+    @article{michelsanti2021overview,
+	Author = {Michelsanti, Daniel and Tan, Zheng-Hua and Zhang, Shi-Xiong and Xu, Yong and Yu, Meng and Yu, Dong and Jensen, Jesper},
 	Title = {An Overview of Deep-Learning-Based Audio-Visual Speech Enhancement and Separation},
-	eprint={2008.09586},
-    archivePrefix={arXiv},
-	Year = {2020}}
+	journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+	volume={29},
+	pages={1368-1396},
+	doi={10.1109/TASLP.2021.3066303}
+	Year = {2021}}
+
 
 ![img](img/av.png)
 
