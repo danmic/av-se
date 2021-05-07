@@ -75,7 +75,7 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * TCD-TIMIT [[paper]](https://ieeexplore.ieee.org/abstract/document/7050271) [[dataset page]](https://sigmedia.tcd.ie/TCDTIMIT/)
 
-* VoxCeleb [[paper]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html) [[dataset page]](https://arxiv.org/pdf/1706.08612)
+* VoxCeleb [[paper]](https://arxiv.org/pdf/1706.08612) [[dataset page]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
 
 * VoxCeleb2 [[paper]](https://arxiv.org/pdf/1806.05622) [[dataset page]](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
 
