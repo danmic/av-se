@@ -37,6 +37,8 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * ASPIRE [[paper]](https://arxiv.org/pdf/1909.10407.pdf) [[dataset page]](https://cochleanet.github.io)
 
+* CREMA-D [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313618/) [[dataset page]](https://github.com/CheyneyComputerScience/CREMA-D)
+
 * CUAVE [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.6375&rep=rep1&type=pdf)
 
 * GRID [[paper]](http://www.laslab.org/wp-content/uploads/an_audio-visual_corpus_for_speech_perception_and_automatic_speech_recognition.pdf) [[dataset page]](http://spandh.dcs.shef.ac.uk/gridcorpus/)
