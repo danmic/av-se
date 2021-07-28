@@ -210,7 +210,7 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * M. Sadeghi, S. Leglaive, X. Alameda-Pineda, L. Girin, and R. Horaud, “Audio-visual speech enhancement using conditional variational autoencoders,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1788–1800, 2020. [[paper]](https://arxiv.org/pdf/1908.02590.pdf) [[project page]](https://team.inria.fr/perception/research/av-vae-se/) [[demo]](https://team.inria.fr/perception/research/av-vae-se/) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
 
-S. S. Shetu, S. Chakrabarty, and E. A. P. Habets, “An empirical study of visual features for DNN based audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2011.04359.pdf) *
+* S. S. Shetu, S. Chakrabarty, and E. A. P. Habets, “An empirical study of visual features for DNN based audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2011.04359.pdf) *
 
 * Z. Sun, Y. Wang, and L. Cao, “An attention based speaker-independent audio-visual deep learning model for speech enhancement,” in Proc. of MMM, 2020. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_60)
 
