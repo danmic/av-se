@@ -186,6 +186,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * Y. Luo, J. Wang, X. Wang, L. Wen, and L. Wang, “Audio-visual speech separation using i-Vectors,” in Proc. of ICICSP, 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8958547)
 
+* N. Makishima, M. Ihori, A. Takashima, T. Tanaka, S. Orihashi, and R. Masumura, “Audio-visual speech separation using cross-modal correspondence loss,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2103.01463.pdf) *
+
 * D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “On training targets and objective functions for deep-learning-based audio-visual speech enhancement,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.06234.pdf) [[supplementary material]](http://kom.aau.dk/~zt/online/icassp2019_sup_mat.pdf)
 
 * D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “Deep- learning-based audio-visual speech enhancement in presence of Lombard effect,” Speech Communication, vol. 115, pp. 38–50, 2019. [[paper]](https://arxiv.org/pdf/1905.12605.pdf) [[demo]](https://www.youtube.com/watch?v=IRlaU0EMeOg)
@@ -208,6 +210,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * M. Sadeghi, S. Leglaive, X. Alameda-Pineda, L. Girin, and R. Horaud, “Audio-visual speech enhancement using conditional variational autoencoders,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1788–1800, 2020. [[paper]](https://arxiv.org/pdf/1908.02590.pdf) [[project page]](https://team.inria.fr/perception/research/av-vae-se/) [[demo]](https://team.inria.fr/perception/research/av-vae-se/) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
 
+S. S. Shetu, S. Chakrabarty, and E. A. P. Habets, “An empirical study of visual features for DNN based audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2011.04359.pdf) *
+
 * Z. Sun, Y. Wang, and L. Cao, “An attention based speaker-independent audio-visual deep learning model for speech enhancement,” in Proc. of MMM, 2020. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_60)
 
 * K. Tan, Y. Xu, S.-X. Zhang, M. Yu, and D. Yu, “Audio-visual speech separation and dereverberation with a two-stage multimodal network,” IEEE Journal of Selected Topics in Signal Processing, vol. 14, no. 3, pp. 542–553, 2020. [[paper]](https://arxiv.org/pdf/1909.07352.pdf) [[project page]](https://jupiterethan.github.io/av-enh.github.io/) [[demo]](https://jupiterethan.github.io/av-enh.github.io/)
@@ -217,6 +221,10 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * J. Wu, Y. Xu, S.-X. Zhang, L.-W. Chen, M. Yu, L. Xie, and D. Yu, “Time domain audio visual speech separation,” in Proc. of ASRU, 2019. [[paper]](https://arxiv.org/pdf/1904.03760.pdf) [[project page]](https://funcwj.github.io/online-demo/page/tavs) [[demo]](https://funcwj.github.io/online-demo/page/tavs)
 
 * Z. Wu, S. Sivadas, Y. K. Tan, M. Bin, and R. S. M. Goh,“Multi-modal hybrid deep neural network for speech enhancement,” arXiv preprint arXiv:1606.04750, 2016. [[paper]](https://arxiv.org/pdf/1606.04750.pdf) 
+
+* X. Xu, Y. Wang, D. Xu, C. Zhang, Y. Peng, J. Jia, and B. Chen, “VSEGAN: Visual speech enhancement generative adversarial network,” arXiv preprint arXiv:2102.02599, 2021. [[paper]](https://arxiv.org/pdf/2102.02599.pdf) [[project page]](https://xinmengxu.github.io/AVSE/VSEGAN) * 
+
+* X. Xu, Y. Wang, D. Xu, C. Zhang, Y. Peng, J. Jia, and B. Chen, “AMFFCN: Attentional multi-layer feature fusion convolution network for audio-visual speech enhancement,” arXiv preprint arXiv:2101.06268, 2021. [[paper]](https://arxiv.org/pdf/2101.06268.pdf) [[project page]](https://xinmengxu.github.io/AVSE/AMFFCN) *
 
 * Y. Xu, M. Yu, S.-X. Zhang, L. Chen, C. Weng, J. Liu, and D. Yu, “Neural spatio-temporal beamformer for target speech separation,” Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.03889.pdf) [[project page]](https://yongxuustc.github.io/mtmvdr) [[demo]](https://yongxuustc.github.io/mtmvdr)
 
@@ -240,6 +248,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * T. Le Cornu and B. Milner, “Generating intelligible audio speech from visual speech,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 25, no. 9, pp. 1751–1761, 2017. [[paper]](https://ueaeprints.uea.ac.uk/id/eprint/64052/1/Accepted_manuscript.pdf) [[demo]](https://www.uea.ac.uk/computing/speech-language-and-audio-processing/v2a-results)
 
 * D. Michelsanti, O. Slizovskaia, G. Haro, E. Go ́mez, Z.-H. Tan, and J. Jensen, “Vocoder-based speech synthesis from silent videos,” in Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2004.02541.pdf) [[project page]](https://danmic.github.io/vid2voc/) [[demo]](https://www.youtube.com/watch?v=dBhBCH-agc4&feature=emb_title)
+
+* R. Mira, K. Vougioukas, P. Ma, S. Petridis, B. W. Schuller, and M. Pantic, “End-to-end video-to-speech synthesis using generative adversarial networks,” arXiv preprint arXiv:2104.13332, 2021. [[paper]](https://arxiv.org/pdf/2104.13332.pdf) [[project page]](https://sites.google.com/view/video-to-speech/home) *
 
 * K. Prajwal, R. Mukhopadhyay, V. P. Namboodiri, and C. Jawahar, “Learning individual speaking styles for accurate lip to speech synthesis,” in Proc. of CVPR, 2020. [[paper]](https://arxiv.org/pdf/2005.08209.pdf) [[project page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/speaking-by-observing-lip-movements) [[demo]](https://www.youtube.com/watch?v=HziA-jmlk_4&feature=youtu.be) [[code]](https://github.com/Rudrabha/Lip2Wav)
 
@@ -269,8 +279,6 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * O. Slizovskaia, G. Haro, and E. Gómez, “Conditioned source separation for music instrument performances,” arXiv preprint arXiv:2004.03873, 2020. [[paper]](https://arxiv.org/pdf/2004.03873.pdf) [[project page]](https://veleslavia.github.io/conditioned-u-net/) [[demo]](https://www.youtube.com/watch?v=qJdsqh2y2C8&feature=emb_title)[[code]](https://github.com/veleslavia/conditioned-u-net)
 
 * X. Xu, B. Dai, and D. Lin, “Recursive visual sound separation using minus-plus net,” in Proc. of ICCV, 2019. [[paper]](https://arxiv.org/pdf/1908.11602.pdf) [[demo]](https://www.youtube.com/watch?v=io_myrxtA4I)
-
-* X. Xu, Y. Wang, D. Xu, C. Zhang, Y. Peng, J. Jia, and B. Chen, “VSEGAN: Visual speech enhancement generative adversarial network,” arXiv preprint arXiv:2102.02599, 2021. [[paper]](https://arxiv.org/pdf/2102.02599.pdf) [[project page]](https://xinmengxu.github.io/AVSE/VSEGAN) * 
 
 * H. Zhao, C. Gan, W.-C. Ma, and A. Torralba, “The sound of motions,” in Proc. of ICCV, 2019. [[paper]](https://arxiv.org/pdf/1904.05979.pdf) [[demo]](http://people.csail.mit.edu/hangzhao/videos/SoM_supp.mp4)
 
