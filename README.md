@@ -147,7 +147,9 @@ arXiv:2005.07074, 2020. [[paper]](https://arxiv.org/pdf/2005.07074.pdf) [[demo]]
 
 * A. Gabbay, A. Ephrat, T. Halperin, and S. Peleg, “Seeing through noise: Visually driven speaker separation and enhancement,” in Proc. of ICASSP, 2018. [[paper]](https://arxiv.org/pdf/1708.06767.pdf) [[project page]](http://www.vision.huji.ac.il/speaker-separation/) [[demo]](https://www.youtube.com/watch?v=qmsyj7vAzoI&feature=emb_title) [[code]](https://github.com/avivga/cocktail-party)
 
-* A. Gabbay, A. Shamir, and S. Peleg, “Visual speech enhancement,” Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/1711.08789.pdf) [[project page]](http://www.vision.huji.ac.il/visual-speech-enhancement/) [[demo 1]](https://www.youtube.com/watch?v=nyYarDGpcYA&feature=emb_title) [[other demos]](http://www.vision.huji.ac.il/visual-speech-enhancement/) [[code]](https://github.com/avivga/audio-visual-speech-enhancement)
+* A. Gabbay, A. Shamir, and S. Peleg, “Visual speech enhancement,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/1711.08789.pdf) [[project page]](http://www.vision.huji.ac.il/visual-speech-enhancement/) [[demo 1]](https://www.youtube.com/watch?v=nyYarDGpcYA&feature=emb_title) [[other demos]](http://www.vision.huji.ac.il/visual-speech-enhancement/) [[code]](https://github.com/avivga/audio-visual-speech-enhancement)
+
+* R. Gao and K. Grauman, “VISUALVOICE: Audio-visual speech separation with cross-modal consistency,” in Proc. of CVPR, 2021. [[paper]](https://arxiv.org/pdf/2101.03149.pdf) [[project page]](http://vision.cs.utexas.edu/projects/VisualVoice/) [[demo]](https://www.youtube.com/watch?v=tNR9QD6IN8c) [[code]](https://github.com/facebookresearch/VisualVoice) [[supplementary material]](http://vision.cs.utexas.edu/projects/VisualVoice/VisualVoice_Supp.pdf) *
 
 * M. Gogate, A. Adeel, R. Marxer, J. Barker, and A. Hussain, “DNN
 driven speaker independent audio-visual mask estimation for speech
