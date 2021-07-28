@@ -170,6 +170,8 @@ separation,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/18
 * B. İnan, M. Cernak, H. Grabner, H. P. Tukuljac, R. C. Pena, and
 B. Ricaud, “Evaluating audiovisual source separation in the context of video conferencing,” Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2671.pdf) [[code]](https://github.com/berkayinan/audiovisual-separation-for-vc)
 
+K. Ito, M. Yamamoto, and K. Nagamatsu, “Audio-visual speech enhancement method conditioned in the lip motion and speaker-discriminative embeddings,” Proc. of ICASSP, 2021. [[paper]](https://ieeexplore.ieee.org/document/9414133) *
+
 * M. L. Iuzzolino and K. Koishida, “AV(SE)²: Audio-visual squeeze- excite speech enhancement,” in Proc. of ICASSP. IEEE, 2020, pp. 7539–7543. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054528)
 
 * H. R. V. Joze, A. Shaban, M. L. Iuzzolino, and K. Koishida, “MMTM: Multimodal transfer module for CNN fusion,” Proc. of CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Joze_MMTM_Multimodal_Transfer_Module_for_CNN_Fusion_CVPR_2020_paper.pdf)
@@ -207,6 +209,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * M. Sadeghi and X. Alameda-Pineda, “Mixture of inference networks for VAE-based audio-visual speech enhancement,” arXiv preprint arXiv:1912.10647, 2019. [[paper]](https://arxiv.org/pdf/1912.10647.pdf) [[project page]](https://team.inria.fr/perception/research/min-vae-se/) [[demo]](https://team.inria.fr/perception/research/min-vae-se/#audio) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
 
 * M. Sadeghi and X. Alameda-Pineda, “Robust unsupervised audio-visual speech enhancement using a mixture of variational autoencoders,” in Proc. of ICASSP, 2020. [[paper]](https://arxiv.org/pdf/1911.03930.pdf) [[project page]](https://team.inria.fr/perception/research/vae-mm-se/) [[supplementary material]](https://team.inria.fr/perception/files/2019/10/vae_mm_supp.pdf) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
+
+* M. Sadeghi and X. Alameda-Pineda, “Switching variational auto-encoders for noise-agnostic audio-visual speech enhancement,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2102.04144.pdf) [[project page]](https://team.inria.fr/perception/research/swvae/) *
 
 * M. Sadeghi, S. Leglaive, X. Alameda-Pineda, L. Girin, and R. Horaud, “Audio-visual speech enhancement using conditional variational autoencoders,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1788–1800, 2020. [[paper]](https://arxiv.org/pdf/1908.02590.pdf) [[project page]](https://team.inria.fr/perception/research/av-vae-se/) [[demo]](https://team.inria.fr/perception/research/av-vae-se/) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
 
