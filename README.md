@@ -270,6 +270,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * X. Xu, B. Dai, and D. Lin, “Recursive visual sound separation using minus-plus net,” in Proc. of ICCV, 2019. [[paper]](https://arxiv.org/pdf/1908.11602.pdf) [[demo]](https://www.youtube.com/watch?v=io_myrxtA4I)
 
+* X. Xu, Y. Wang, D. Xu, C. Zhang, Y. Peng, J. Jia, and B. Chen, “VSEGAN: Visual speech enhancement generative adversarial network,” arXiv preprint arXiv:2102.02599, 2021. [[paper]](https://arxiv.org/pdf/2102.02599.pdf) [[project page]](https://xinmengxu.github.io/AVSE/VSEGAN) * 
+
 * H. Zhao, C. Gan, W.-C. Ma, and A. Torralba, “The sound of motions,” in Proc. of ICCV, 2019. [[paper]](https://arxiv.org/pdf/1904.05979.pdf) [[demo]](http://people.csail.mit.edu/hangzhao/videos/SoM_supp.mp4)
 
 * H. Zhao, C. Gan, A. Rouditchenko, C. Vondrick, J. McDermott, and A. Torralba, “The sound of pixels,” in Proc. of ECCV, 2018. [[paper]](https://arxiv.org/pdf/1804.03160.pdf) [[project page]](http://sound-of-pixels.csail.mit.edu) [[demo 1]](https://www.youtube.com/watch?v=2eVDLEQlKD0&feature=emb_title) [[demo 2]](http://sound-of-pixels.csail.mit.edu)[[code]](https://github.com/hangzhaomit/Sound-of-Pixels)
