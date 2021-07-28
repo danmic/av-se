@@ -2,7 +2,7 @@
 
 This document provides a list of resources on audio-visual speech enhancement and separation based on deep learning. It can be seen as an appendix to [the overview paper that we recently wrote](https://arxiv.org/abs/2008.09586).
 
-Our intention is to update the list, when new material on the topic is released. Feel free to propose changes or point out a resource that should be included.
+Our intention is to update the list, when new material on the topic is released. The symbol '*' will be used beside a resource to indicate that it was not cited in our overview article. Feel free to propose changes or point out a resource that should be included.
 
 If you like and use this work, please :star: and consider citing our overview article. This will highlight the interest of the community in our work.
 
@@ -37,7 +37,7 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * ASPIRE [[paper]](https://arxiv.org/pdf/1909.10407.pdf) [[dataset page]](https://cochleanet.github.io)
 
-* CREMA-D [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313618/) [[dataset page]](https://github.com/CheyneyComputerScience/CREMA-D)
+* CREMA-D* [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313618/) [[dataset page]](https://github.com/CheyneyComputerScience/CREMA-D)
 
 * CUAVE [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.6375&rep=rep1&type=pdf)
 
