@@ -172,7 +172,7 @@ separation,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/18
 * B. İnan, M. Cernak, H. Grabner, H. P. Tukuljac, R. C. Pena, and
 B. Ricaud, “Evaluating audiovisual source separation in the context of video conferencing,” Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2671.pdf) [[code]](https://github.com/berkayinan/audiovisual-separation-for-vc)
 
-K. Ito, M. Yamamoto, and K. Nagamatsu, “Audio-visual speech enhancement method conditioned in the lip motion and speaker-discriminative embeddings,” Proc. of ICASSP, 2021. [[paper]](https://ieeexplore.ieee.org/document/9414133) *
+* K. Ito, M. Yamamoto, and K. Nagamatsu, “Audio-visual speech enhancement method conditioned in the lip motion and speaker-discriminative embeddings,” Proc. of ICASSP, 2021. [[paper]](https://ieeexplore.ieee.org/document/9414133) *
 
 * M. L. Iuzzolino and K. Koishida, “AV(SE)²: Audio-visual squeeze- excite speech enhancement,” in Proc. of ICASSP. IEEE, 2020, pp. 7539–7543. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054528)
 
