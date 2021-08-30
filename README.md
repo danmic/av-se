@@ -204,6 +204,10 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * A. Owens and A. A. Efros, “Audio-visual scene analysis with self-supervised multisensory features,” in Proc. of ECCV, 2018. [[paper]](https://arxiv.org/pdf/1804.03641.pdf) [[project page]](http://andrewowens.com/multisensory) [[demo]](https://www.youtube.com/watch?v=rwCIRu_hAJ8&feature=emb_title) [[code]](https://github.com/andrewowens/multisensory)
 
+* Z. Pan, R. Tao, C. Xu and H. Li, “MuSe: Multi-modal target speaker extraction with visual cues,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2010.07775.pdf) [[code]](https://github.com/zexupan/MuSE) *
+
+* Z. Pan, R. Tao, C. Xu and H. Li, “Selective Hearing through Lip-reading,” arXiv preprint arXiv:2106.07150, 2021. [[paper]](https://arxiv.org/pdf/2106.07150.pdf) [[code]](https://github.com/zexupan/reentry) *
+
 * L. Pasa, G. Morrone, and L. Badino, “An analysis of speech enhancement and recognition losses in limited resources multi-talker single channel audio-visual ASR,” in Proc. of ICASSP, 2020. [[paper]](https://arxiv.org/pdf/1904.08248.pdf)
 
 * L. Qu, C. Weber, and S. Wermter, “Multimodal target speech separation with voice and face references,” arXiv preprint arXiv:2005.08335, 2020. [[paper]](https://arxiv.org/pdf/2005.08335.pdf) [[project page]](leyuanqu.github.io/INTERSPEECH2020) [[demo]](leyuanqu.github.io/INTERSPEECH2020)
@@ -215,6 +219,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * M. Sadeghi and X. Alameda-Pineda, “Switching variational auto-encoders for noise-agnostic audio-visual speech enhancement,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2102.04144.pdf) [[project page]](https://team.inria.fr/perception/research/swvae/) *
 
 * M. Sadeghi, S. Leglaive, X. Alameda-Pineda, L. Girin, and R. Horaud, “Audio-visual speech enhancement using conditional variational autoencoders,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1788–1800, 2020. [[paper]](https://arxiv.org/pdf/1908.02590.pdf) [[project page]](https://team.inria.fr/perception/research/av-vae-se/) [[demo]](https://team.inria.fr/perception/research/av-vae-se/) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
+
+* H. Sato, T. Ochiai, K. Kinoshita, M. Delcroix, T. Nakatani and S. Araki. “Multimodal attention fusion for target speaker extraction,” in Proc. of SLT, 2021. [[paper]](https://arxiv.org/pdf/2102.01326.pdf) [[project page]](http://www.kecl.ntt.co.jp/icl/signal/member/demo/audio_visual_speakerbeam.html) [[demo]](http://www.kecl.ntt.co.jp/icl/signal/member/demo/audio_visual_speakerbeam.html) *
 
 * S. S. Shetu, S. Chakrabarty, and E. A. P. Habets, “An empirical study of visual features for DNN based audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2011.04359.pdf) *
 
