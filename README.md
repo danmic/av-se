@@ -204,6 +204,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * A. Owens and A. A. Efros, “Audio-visual scene analysis with self-supervised multisensory features,” in Proc. of ECCV, 2018. [[paper]](https://arxiv.org/pdf/1804.03641.pdf) [[project page]](http://andrewowens.com/multisensory) [[demo]](https://www.youtube.com/watch?v=rwCIRu_hAJ8&feature=emb_title) [[code]](https://github.com/andrewowens/multisensory)
 
+* Z. Pan, M. Ge and H. Li, “USEV: Universal speaker extraction with visual cue,” 2021. [[paper]](https://arxiv.org/pdf/2109.14831.pdf) [[code]](https://github.com/zexupan/USEV) *
+
 * Z. Pan, R. Tao, C. Xu and H. Li, “MuSe: Multi-modal target speaker extraction with visual cues,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2010.07775.pdf) [[code]](https://github.com/zexupan/MuSE) *
 
 * Z. Pan, R. Tao, C. Xu and H. Li, “Selective Hearing through Lip-reading,” arXiv preprint arXiv:2106.07150, 2021. [[paper]](https://arxiv.org/pdf/2106.07150.pdf) [[code]](https://github.com/zexupan/reentry) *
