@@ -165,7 +165,7 @@ separation,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/18
 
 * A. Hussain, J. Barker, R. Marxer, A. Adeel, W. Whitmer, R. Watt, and P. Derleth, “Towards multi-modal hearing aid design and evaluation in realistic audio-visual settings: Challenges and opportunities,” in Proc. of CHAT, 2017. [[paper]](http://spandh.dcs.shef.ac.uk/chat2017/papers/CHAT_2017_hussain.pdf) 
 
-* T. Hussain, M. Gogate, K. Dashtipour, and A. Hussain, “Towards intelligibility-oriented audio-visual speech enhancement,” arXiv preprint arXiv:2111.09642, 2021. [[paper]](https://arxiv.org/pdf/2111.09642.pdf)
+* T. Hussain, M. Gogate, K. Dashtipour, and A. Hussain, “Towards intelligibility-oriented audio-visual speech enhancement,” arXiv preprint arXiv:2111.09642, 2021. [[paper]](https://arxiv.org/pdf/2111.09642.pdf) *
 
 * E. Ideli, “Audio-visual speech processing using deep learning techniques.” MSc thesis, Applied Sciences: School of Engineering Science, 2019. [[paper]](https://summit.sfu.ca/item/19744)
 
