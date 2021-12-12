@@ -251,7 +251,9 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * A. Ephrat, T. Halperin, and S. Peleg, “Improved speech reconstruction from silent video,” in Proc. of CVAVM, 2017. [[paper]](https://arxiv.org/pdf/1708.01204.pdf) [[project page]](http://www.vision.huji.ac.il/vid2speech) [[demo]](https://www.youtube.com/watch?v=Xjbn7h7tpg0&feature=emb_title) 
 
-* A. Ephrat and S. Peleg, “Vid2Speech: Speech reconstruction from silent video,” in Proc. of ICASSP, 2017. [[paper]]() [[project page]](http://www.vision.huji.ac.il/vid2speech/) [[demo 1]](https://www.youtube.com/watch?v=6B0pitNsRSs&feature=emb_title) [[demo 2]](https://www.youtube.com/watch?v=_gG2sewE-IQ&feature=emb_title) [[demo 3]](https://www.youtube.com/watch?v=1FJnv5bf9Mc&feature=emb_title) [[code]](https://github.com/arielephrat/vid2speech)
+* A. Ephrat and S. Peleg, “Vid2Speech: Speech reconstruction from silent video,” in Proc. of ICASSP, 2017. [[paper]](https://arxiv.org/pdf/1701.00495.pdf) [[project page]](http://www.vision.huji.ac.il/vid2speech/) [[demo 1]](https://www.youtube.com/watch?v=6B0pitNsRSs&feature=emb_title) [[demo 2]](https://www.youtube.com/watch?v=_gG2sewE-IQ&feature=emb_title) [[demo 3]](https://www.youtube.com/watch?v=1FJnv5bf9Mc&feature=emb_title) [[code]](https://github.com/arielephrat/vid2speech)
+
+* M. Kim, J. Hong, Y. M. Ro, “Lip to Speech Synthesis with Visual Context Attentional GAN,” in Proc. of NeurIPS, 2021. [[paper]](https://arxiv.org/pdf/2011.07340.pdf) *
 
 * Y. Kumar, M. Aggarwal, P. Nawal, S. Satoh, R. R. Shah, and R. Zimmermann, “Harnessing AI for speech reconstruction using multi-view silent video feed,” in Proc. of ACM-MM, 2018. [[paper]](https://arxiv.org/pdf/1807.00619.pdf)
 
@@ -277,6 +279,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * K. Vougioukas, P. Ma, S. Petridis, and M. Pantic, “Video-driven speech reconstruction using generative adversarial networks,” in Proc. of Interspeech, 2019. [[paper]](https://arxiv.org/pdf/1906.06301.pdf) [[project page]](https://sites.google.com/view/speech-synthesis/home) [[demo 1]](https://www.youtube.com/watch?v=W0IPRd-GeCs&feature=emb_title) [[demo 2]](https://www.youtube.com/watch?v=xl1EmVaCP4s&feature=emb_title) [[demo 3]](https://www.youtube.com/watch?v=KJWCo4lbvAI&feature=emb_title)
 
+* R. Yadav, A. Sardana, V. P. Namboodiri, and R. M. Hegde, “Speech prediction in silent videos using variational autoencoders,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2011.07340.pdf) *
+
 
 ## Audio-Visual Sound Source Separation for Non-Speech Signals
 
@@ -289,6 +293,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * R. Gao and K. Grauman, “Co-separating sounds of visual objects,” in Proc. of ICCV, 2019. [[paper]](https://arxiv.org/abs/1904.07750) [[project page]](http://vision.cs.utexas.edu/projects/coseparation/) [[demo]](https://www.youtube.com/watch?v=Tdm5K65WL2I&feature=emb_title) [[code]](https://github.com/rhgao/co-separation)
 
 * S. Parekh, A. Ozerov, S. Essid, N. Q. Duong, P. Pérez, and G. Richard, “Identify, locate and separate: Audio-visual object extraction in large video collections using weak supervision,” in Proc. of WASPAA, 2019. [[paper]](https://arxiv.org/pdf/1811.04000.pdf) [[project page]](https://perso.telecom-paristech.fr/sparekh/icassp2019.html) [[demo]](https://perso.telecom-paristech.fr/sparekh/icassp2019.html)
+
+* J. F. Montesinos, V. S. Kadandale, and G. Haro, “A cappella: Audio-visual Singing Voice Separation,” in Proc. of BMVC, 2021. [[paper]](https://arxiv.org/pdf/2104.09946.pdf) [[project page]](https://ipcv.github.io/Acappella/) [[demo]](https://ipcv.github.io/Acappella/demos/)[[code]](https://github.com/JuanFMontesinos/Acappella-YNet) *
 
 * A. Rouditchenko, H. Zhao, C. Gan, J. McDermott, and A. Torralba, “Self-supervised audio-visual co-segmentation,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1904.09013.pdf)
 
