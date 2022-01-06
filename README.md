@@ -139,6 +139,9 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * S.-Y. Chuang, Y. Tsao, C.-C. Lo, and H.-M. Wang, “Lite audio-visual speech enhancement,” in Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.11769) [[code]](https://github.com/kagaminccino/LAVSE)
 
+* H. Chen, J. Du, Y. Hu, L.-R. Dai, B.-C. Yin, C.-H. Lee, “Correlating subword articulation with lip shapes for embedding aware audio-visual speech enhancement
+,” in Neural Network, vol. 143, pp. 171-182, 2021. [[paper]](https://arxiv.org/pdf/2009.09561.pdf) *
+
 * S.-W. Chung, S. Choe, J. S. Chung, and H.-G. Kang, “Facefilter:
 Audio-visual speech separation using still images,” arXiv preprint
 arXiv:2005.07074, 2020. [[paper]](https://arxiv.org/pdf/2005.07074.pdf) [[demo]](https://youtu.be/ku9xoLh62E4)
