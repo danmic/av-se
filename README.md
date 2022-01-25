@@ -41,6 +41,8 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * CUAVE [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.6375&rep=rep1&type=pdf)
 
+* EasyCom [[paper]](https://arxiv.org/pdf/2107.04174.pdf) [[dataset page]](https://github.com/facebookresearch/EasyComDataset) *
+
 * GRID [[paper]](http://www.laslab.org/wp-content/uploads/an_audio-visual_corpus_for_speech_perception_and_automatic_speech_recognition.pdf) [[dataset page]](http://spandh.dcs.shef.ac.uk/gridcorpus/)
 
 * KinectDigits [[paper]](https://www.honda-ri.de/pubs/pdf/3275.pdf) [[dataset page]](https://zenodo.org/record/823531#.Xzml9y17HOQ)
