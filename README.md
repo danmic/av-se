@@ -260,7 +260,7 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * A. Ephrat and S. Peleg, “Vid2Speech: Speech reconstruction from silent video,” in Proc. of ICASSP, 2017. [[paper]](https://arxiv.org/pdf/1701.00495.pdf) [[project page]](http://www.vision.huji.ac.il/vid2speech/) [[demo 1]](https://www.youtube.com/watch?v=6B0pitNsRSs&feature=emb_title) [[demo 2]](https://www.youtube.com/watch?v=_gG2sewE-IQ&feature=emb_title) [[demo 3]](https://www.youtube.com/watch?v=1FJnv5bf9Mc&feature=emb_title) [[code]](https://github.com/arielephrat/vid2speech)
 
-* J. Hong, M. Kim, S.J. Park, Y.M. Ro, “Speech reconstruction with reminiscent sound via visual voice memory,” in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 3654-3667, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9618777) [[demo]](https://github.com/joannahong/Speech-Reconstruction-with-Reminiscent-Sound-via-Visual-Voice-Memory)
+* J. Hong, M. Kim, S.J. Park, Y.M. Ro, “Speech reconstruction with reminiscent sound via visual voice memory,” in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 3654-3667, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9618777) [[demo]](https://github.com/joannahong/Speech-Reconstruction-with-Reminiscent-Sound-via-Visual-Voice-Memory) *
 
 * M. Kim, J. Hong, Y. M. Ro, “Lip to speech synthesis with visual context attentional GAN,” in Proc. of NeurIPS, 2021. [[paper]](https://arxiv.org/pdf/2011.07340.pdf) *
 
