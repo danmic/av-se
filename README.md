@@ -282,7 +282,7 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * L. Qu, C. Weber, and S. Wermter. "LipSound: Neural Mel-Spectrogram Reconstruction for Lip Reading," in Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1393.pdf) [[demo]](https://soundcloud.com/user-612210805/sets/video-to-mel) *
 
-* N. Saleem, J. Gao, M. Irfan, E. Verdu, and J. Parra Fuente. “E2E-V2SResNet: Deep residual convolutional neural networks for end-to-end video driven speech synthesis,” in Image and Vision Computing, Vol. 119, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562200018X)
+* N. Saleem, J. Gao, M. Irfan, E. Verdu, and J. Parra Fuente. “E2E-V2SResNet: Deep residual convolutional neural networks for end-to-end video driven speech synthesis,” in Image and Vision Computing, Vol. 119, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S026288562200018X) *
 
 * Y. Takashima, T. Takiguchi, and Y. Ariki, “Exemplar-based lip-to-speech synthesis using convolutional neural networks,” in Proc. of IW-FCV, 2019. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/pdf/2019/O1-4.pdf)
 
