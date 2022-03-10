@@ -207,6 +207,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “Effects of Lombard reflex on the performance of deep-learning-based audio-visual speech enhancement systems,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.06250.pdf) [[demo]](https://vbn.aau.dk/en/activities/demo-effects-of-lombard-reflex-on-deep-learning-based-audio-visua)
 
+* J. F. Montesinos, V. S. Kadandale, and G. Haro, “VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer,” arXiv preprint arXiv:2203.04099, 2022. [[paper]](https://arxiv.org/pdf/2203.04099.pdf) [[demo]](https://ipcv.github.io/VoViT/demos/) [[code]](https://github.com/JuanFMontesinos/VoViT) [[project page]](https://ipcv.github.io/VoViT/) *
+
 * G. Morrone, S. Bergamaschi, L. Pasa, L. Fadiga, V. Tikhanoff, and L. Badino, “Face landmark-based speaker-independent audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.02480.pdf) [[project page]](https://dr-pato.github.io/audio_visual_speech_enhancement/) [[demo]](https://www.youtube.com/watch?v=YQ0q-OFphKM&feature=emb_title) [[other demos]](https://dr-pato.github.io/audio_visual_speech_enhancement/) [[code]](https://github.com/dr-pato/audio_visual_speech_enhancement)
 
 * T. Ochiai, M. Delcroix, K. Kinoshita, A. Ogawa, and T. Nakatani, “Multimodal SpeakerBeam: Single channel target speech extraction with audio-visual speaker clues,” Proc. Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1513.pdf)
