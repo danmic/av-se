@@ -1,6 +1,6 @@
 # Deep-Learning-Based Audio-Visual Speech Enhancement and Separation
 
-This document provides a list of resources on audio-visual speech enhancement and separation based on deep learning. It can be seen as an appendix to [the overview paper that we recently wrote](https://arxiv.org/abs/2008.09586).
+This document provides a list of resources on audio-visual speech enhancement and separation based on deep learning. It can be seen as an appendix to [our overview paper on the topic](https://arxiv.org/abs/2008.09586).
 
 Our intention is to update the list, when new material on the topic is released. The symbol '*' will be used beside a resource to indicate that it was not cited in our overview article. Feel free to propose changes or point out a resource that should be included.
 
