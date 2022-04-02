@@ -43,6 +43,8 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * EasyCom [[paper]](https://arxiv.org/pdf/2107.04174.pdf) [[dataset page]](https://github.com/facebookresearch/EasyComDataset) *
 
+* Facestar [[paper]](https://arxiv.org/pdf/2203.17263.pdf) [[dataset page]](https://github.com/facebookresearch/facestar) *
+
 * GRID [[paper]](http://www.laslab.org/wp-content/uploads/an_audio-visual_corpus_for_speech_perception_and_automatic_speech_recognition.pdf) [[dataset page]](http://spandh.dcs.shef.ac.uk/gridcorpus/)
 
 * KinectDigits [[paper]](https://www.honda-ri.de/pubs/pdf/3275.pdf) [[dataset page]](https://zenodo.org/record/823531#.Xzml9y17HOQ)
@@ -252,6 +254,9 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * X. Xu, Y. Wang, D. Xu, C. Zhang, Y. Peng, J. Jia, and B. Chen, “AMFFCN: Attentional multi-layer feature fusion convolution network for audio-visual speech enhancement,” arXiv preprint arXiv:2101.06268, 2021. [[paper]](https://arxiv.org/pdf/2101.06268.pdf) [[project page]](https://xinmengxu.github.io/AVSE/AMFFCN) *
 
 * Y. Xu, M. Yu, S.-X. Zhang, L. Chen, C. Weng, J. Liu, and D. Yu, “Neural spatio-temporal beamformer for target speech separation,” Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.03889.pdf) [[project page]](https://yongxuustc.github.io/mtmvdr) [[demo]](https://yongxuustc.github.io/mtmvdr)
+
+* K. Yang, D. Markovic, S. Krenn, V. Agrawal, and A. Richard, “Audio-visual speech codecs: rethinking audio-visual speech enhancement by re-synthesis,” Proc. of CVPR (to appear), 2022. [[paper]](https://arxiv.org/pdf/2203.17263.pdf) *
+
 
 
 ## Speech Reconstruction From Silent Videos
