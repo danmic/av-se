@@ -285,6 +285,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * D. Michelsanti, O. Slizovskaia, G. Haro, E. Go ́mez, Z.-H. Tan, and J. Jensen, “Vocoder-based speech synthesis from silent videos,” in Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2004.02541.pdf) [[project page]](https://danmic.github.io/vid2voc/) [[demo]](https://www.youtube.com/watch?v=dBhBCH-agc4&feature=emb_title)
 
+* R. Mira, A. Haliassos, S. Petridis, B. W. Schuller, and M. Pantic “SVTS: Scalable Video-to-Speech Synthesis,”  arXiv preprint arXiv:2205.02058, 2022. [[paper]](https://arxiv.org/pdf/2205.02058.pdf) [[demo]](https://sites.google.com/view/scalable-vts) *
+
 * R. Mira, K. Vougioukas, P. Ma, S. Petridis, B. W. Schuller, and M. Pantic, “End-to-end video-to-speech synthesis using generative adversarial networks,” arXiv preprint arXiv:2104.13332, 2021. [[paper]](https://arxiv.org/pdf/2104.13332.pdf) [[project page]](https://sites.google.com/view/video-to-speech/home) *
 
 * K. Prajwal, R. Mukhopadhyay, V. P. Namboodiri, and C. Jawahar, “Learning individual speaking styles for accurate lip to speech synthesis,” in Proc. of CVPR, 2020. [[paper]](https://arxiv.org/pdf/2005.08209.pdf) [[project page]](http://cvit.iiit.ac.in/research/projects/cvit-projects/speaking-by-observing-lip-movements) [[demo]](https://www.youtube.com/watch?v=HziA-jmlk_4&feature=youtu.be) [[code]](https://github.com/Rudrabha/Lip2Wav)
