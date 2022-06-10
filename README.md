@@ -299,6 +299,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * S. Uttam, Y. Kumar, D. Sahrawat, M. Aggarwal, R. R. Shah, D. Mahata, and A. Stent, “Hush-hush speak: Speech reconstruction using silent videos,” in Proc. of Interspeech, 2019. [[paper]](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3269.pdf) [[demo]](https://drive.google.com/open?id=1ZWS4L3SaZyb7SNwTaMpY96uJRYfFcVEG) [[code]](https://github.com/midas-research/hush-hush-speak)
 
+* M. Varshney, R. Yadav, V. P. Namboodiri, R. M. Hegde, “Learning Speaker-specific Lip-to-Speech Generation,” in arXiv preprint arXiv:2206.02050. [[paper]](https://arxiv.org/pdf/2206.02050.pdf) [[project page]](https://sites.google.com/view/lip-to-speech/home) *
+
 * K. Vougioukas, P. Ma, S. Petridis, and M. Pantic, “Video-driven speech reconstruction using generative adversarial networks,” in Proc. of Interspeech, 2019. [[paper]](https://arxiv.org/pdf/1906.06301.pdf) [[project page]](https://sites.google.com/view/speech-synthesis/home) [[demo 1]](https://www.youtube.com/watch?v=W0IPRd-GeCs&feature=emb_title) [[demo 2]](https://www.youtube.com/watch?v=xl1EmVaCP4s&feature=emb_title) [[demo 3]](https://www.youtube.com/watch?v=KJWCo4lbvAI&feature=emb_title)
 
 * D. Wang, S. Yang, D. Su, X. Liu, D. Yu, and H. Meng, “VCVTS: Multi-speaker Video-to-Speech synthesis via cross-modal knowledge transfer from voice conversion,” in arXiv preprint arXiv:2202.09081. [[paper]](https://arxiv.org/pdf/2202.09081.pdf) [[demo]](https://wendison.github.io/VCVTS-demo/) *
