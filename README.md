@@ -229,6 +229,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * L. Qu, C. Weber, and S. Wermter, “Multimodal target speech separation with voice and face references,” arXiv preprint arXiv:2005.08335, 2020. [[paper]](https://arxiv.org/pdf/2005.08335.pdf) [[project page]](leyuanqu.github.io/INTERSPEECH2020) [[demo]](leyuanqu.github.io/INTERSPEECH2020)
 
+* A. Rahimi, T. Afouras, A. Zisserman, “Reading to Listen at the Cocktail Party: Multi-Modal Speech Separation,” Proc. of CVPR, 2022. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rahimi_Reading_To_Listen_at_the_Cocktail_Party_Multi-Modal_Speech_Separation_CVPR_2022_paper.pdf) [[project page]](https://www.robots.ox.ac.uk/~vgg/research/voiceformer) *
+
 * M. Sadeghi and X. Alameda-Pineda, “Mixture of inference networks for VAE-based audio-visual speech enhancement,” arXiv preprint arXiv:1912.10647, 2019. [[paper]](https://arxiv.org/pdf/1912.10647.pdf) [[project page]](https://team.inria.fr/perception/research/min-vae-se/) [[demo]](https://team.inria.fr/perception/research/min-vae-se/#audio) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
 
 * M. Sadeghi and X. Alameda-Pineda, “Robust unsupervised audio-visual speech enhancement using a mixture of variational autoencoders,” in Proc. of ICASSP, 2020. [[paper]](https://arxiv.org/pdf/1911.03930.pdf) [[project page]](https://team.inria.fr/perception/research/vae-mm-se/) [[supplementary material]](https://team.inria.fr/perception/files/2019/10/vae_mm_supp.pdf) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
