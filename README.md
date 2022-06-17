@@ -273,6 +273,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * J. Hong, M. Kim, S.J. Park, Y.M. Ro, “Speech reconstruction with reminiscent sound via visual voice memory,” in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 29, pp. 3654-3667, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9618777) [[demo]](https://github.com/joannahong/Speech-Reconstruction-with-Reminiscent-Sound-via-Visual-Voice-Memory) *
 
+* J. Hong, M. Kim, S.J. Park, Y.M. Ro, “VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection,” arXiv preprint arXiv:2206.07458, 2022. [[paper]](https://arxiv.org/pdf/2206.07458.pdf) [[demo]](https://github.com/joannahong/Speech-Reconstruction-with-Reminiscent-Sound-via-Visual-Voice-Memory) *
+
 * M. Kim, J. Hong, Y. M. Ro, “Lip to speech synthesis with visual context attentional GAN,” in Proc. of NeurIPS, 2021. [[paper]](https://arxiv.org/pdf/2011.07340.pdf) *
 
 * Y. Kumar, M. Aggarwal, P. Nawal, S. Satoh, R. R. Shah, and R. Zimmermann, “Harnessing AI for speech reconstruction using multi-view silent video feed,” in Proc. of ACM-MM, 2018. [[paper]](https://arxiv.org/pdf/1807.00619.pdf)
