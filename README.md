@@ -353,5 +353,9 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * H. Zhu, M. Luo, R. Wang, A. Zheng, and R. He, “Deep audio-visual learning: A survey,” arXiv preprint arXiv:2001.04758, 2020. [[paper]](https://arxiv.org/pdf/2001.04758.pdf)
 
+## Challenges
+
+* 1st COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE) [[challenge page]](https://challenge.cogmhear.org/#/) [[baseline code]](https://github.com/cogmhear/avse_challenge) *
+
 
 
