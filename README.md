@@ -191,6 +191,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * H. R. V. Joze, A. Shaban, M. L. Iuzzolino, and K. Koishida, “MMTM: Multimodal transfer module for CNN fusion,” Proc. of CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Joze_MMTM_Multimodal_Transfer_Module_for_CNN_Fusion_CVPR_2020_paper.pdf)
 
+* Z. Kang, M. Sadeghi, R. Horaud, X. Alameda-Pineda, J. Donley, and A. Kumar, “The impact of removing head movements on audio-visual speech enhancement,” arXiv preprint arXiv:2202.00538, 2022. [[paper]](https://arxiv.org/pdf/2202.00538.pdf) [[project page]](https://team.inria.fr/robotlearn/head-movements-avse/) *
+
 * F. U. Khan, B. P. Milner, and T. Le Cornu, “Using visual speech information in masking methods for audio speaker separation,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 26, no. 10, pp. 1742–1754, 2018. [[paper]](https://ueaeprints.uea.ac.uk/id/eprint/67404/1/ieee_speaker_separation_2015_v4.0.pdf) 
 
 * C. Li and Y. Qian, “Deep audio-visual speech separation with attention mechanism,” in Proc. of ICASSP, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9054180)
