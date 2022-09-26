@@ -259,6 +259,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * X. Xu, Y. Wang, D. Xu, C. Zhang, Y. Peng, J. Jia, and B. Chen, “AMFFCN: Attentional multi-layer feature fusion convolution network for audio-visual speech enhancement,” arXiv preprint arXiv:2101.06268, 2021. [[paper]](https://arxiv.org/pdf/2101.06268.pdf) [[project page]](https://xinmengxu.github.io/AVSE/AMFFCN) *
 
+* X. Xu,  Y. Wang, J. Jia, B. Chen and D. Li, “Improving visual speech enhancement network by learning audio-visual affinity with multi-head attention,” arXiv preprint arXiv:2206.14964, 2022. [[paper]](https://arxiv.org/pdf/2206.14964.pdf) [[project page]](https://xinmengxu.github.io/AVSE/AVCRN.html) *
+
 * Y. Xu, M. Yu, S.-X. Zhang, L. Chen, C. Weng, J. Liu, and D. Yu, “Neural spatio-temporal beamformer for target speech separation,” Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.03889.pdf) [[project page]](https://yongxuustc.github.io/mtmvdr) [[demo]](https://yongxuustc.github.io/mtmvdr)
 
 * K. Yang, D. Markovic, S. Krenn, V. Agrawal, and A. Richard, “Audio-visual speech codecs: rethinking audio-visual speech enhancement by re-synthesis,” Proc. of CVPR (to appear), 2022. [[paper]](https://arxiv.org/pdf/2203.17263.pdf) *
@@ -343,6 +345,11 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * L. Zhu and E. Rahtu, “Separating sounds from a single image,” arXiv preprint arXiv:2007.07984, 2020. [[paper]](https://arxiv.org/pdf/2007.07984.pdf) [[project page]](https://ly-zhu.github.io/separating-sounds-from-single-image)
 
 * L. Zhu and E. Rahtu, “Visually guided sound source separation using cascaded oppo- nent filter network,” arXiv preprint arXiv:2006.03028, 2020. [[paper]](https://arxiv.org/pdf/2006.03028.pdf) [[project page]](https://ly-zhu.github.io/cof-net)
+
+
+## Audio-Visual Speech Inpainting
+
+* G. Morrone, D. Michelsanti, Z.-H. Tan and J. Jensen, “Audio-visual speech inpainting with deep learning,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2010.04556.pdf) [[project page]](https://dr-pato.github.io/audio-visual-speech-inpainting/) [[demo]](https://youtu.be/_3rSsVrV2Dc)
 
 
 ## Related Overview Articles
