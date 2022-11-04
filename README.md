@@ -168,6 +168,8 @@ separation,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/18
 
 * M. Gogate, K. Dashtipour, and A. Hussain, “Towards Robust Real-time Audio-Visual Speech Enhancement,” arXiv preprint arXiv:2112.09060, 2021. [[paper]](https://arxiv.org/pdf/2112.09060.pdf) *
 
+* A. Golmakani, M. Sadeghi, R. Serizel, "Audio-visual speech enhancement with a deep Kalman filter generative model," arXiv preprint arXiv:2211.00988, 2021. [[paper]](https://arxiv.org/pdf/2211.00988.pdf) *
+
 * R. Gu, S.-X. Zhang, Y. Xu, L. Chen, Y. Zou, and D. Yu, “Multi-modal multi-channel target speech separation,” IEEE Journal of Selected Topics in Signal Processing, 2020. [[paper]](https://arxiv.org/pdf/2003.07032.pdf) [[project page]](https://moplast.github.io) [[demo]](https://moplast.github.io)
 
 * J.-C. Hou, S.-S. Wang, Y.-H. Lai, Y. Tsao, H.-W. Chang, and H.- M. Wang, “Audio-visual speech enhancement using multimodal deep convolutional neural networks,” IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 2, no. 2, pp. 117–128, 2018. [[paper]](https://arxiv.org/pdf/1703.10893.pdf)
