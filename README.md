@@ -145,12 +145,11 @@ If you like and use this work, please :star: and consider citing our overview ar
 
 * S.-Y. Chuang, Y. Tsao, C.-C. Lo, and H.-M. Wang, “Lite audio-visual speech enhancement,” in Proc. of Interspeech (to appear), 2020. [[paper]](https://arxiv.org/pdf/2005.11769) [[code]](https://github.com/kagaminccino/LAVSE)
 
-* H. Chen, J. Du, Y. Hu, L.-R. Dai, B.-C. Yin, C.-H. Lee, “Correlating subword articulation with lip shapes for embedding aware audio-visual speech enhancement
-,” in Neural Network, vol. 143, pp. 171-182, 2021. [[paper]](https://arxiv.org/pdf/2009.09561.pdf) *
+* H. Chen, J. Du, Y. Hu, L.-R. Dai, B.-C. Yin, C.-H. Lee, “Correlating subword articulation with lip shapes for embedding aware audio-visual speech enhancement,” in Neural Network, vol. 143, pp. 171-182, 2021. [[paper]](https://arxiv.org/pdf/2009.09561.pdf) *
 
-* S.-W. Chung, S. Choe, J. S. Chung, and H.-G. Kang, “Facefilter:
-Audio-visual speech separation using still images,” arXiv preprint
-arXiv:2005.07074, 2020. [[paper]](https://arxiv.org/pdf/2005.07074.pdf) [[demo]](https://youtu.be/ku9xoLh62E4)
+* I-C. Chern, K.-H. Hung, Y.-T. Chen, T. Hussain, M. Gogate, A. Hussain, Y. Tsao, J.-C. Hou, "Audio-Visual Speech Enhancement and Separation by Leveraging Multi-Modal Self-Supervised Embeddings," arXiv preprint arXiv:2210.17456, 2022. [[paper]](https://arxiv.org/pdf/2210.17456.pdf) *
+
+* S.-W. Chung, S. Choe, J. S. Chung, and H.-G. Kang, “Facefilter: Audio-visual speech separation using still images,” arXiv preprint arXiv:2005.07074, 2020. [[paper]](https://arxiv.org/pdf/2005.07074.pdf) [[demo]](https://youtu.be/ku9xoLh62E4)
 
 * A. Ephrat, I. Mosseri, O. Lang, T. Dekel, K. Wilson, A. Hassidim, W. T. Freeman, and M. Rubinstein, “Looking to listen at the cocktail party: A speaker-independent audio-visual model for speech separation,” ACM Transactions on Graphics, vol. 37, no. 4, pp. 112:1–112:11, 2018. [[paper]](https://arxiv.org/pdf/1804.03619.pdf) [[project page]](https://looking-to-listen.github.io) [[demo]](https://www.youtube.com/watch?v=rVQVAPiJWKU&feature=emb_title) [[supplementary material]](https://looking-to-listen.github.io/supplemental/index.html)
 
