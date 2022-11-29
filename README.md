@@ -214,6 +214,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 * D. Michelsanti, Z.-H. Tan, S. Sigurdsson, and J. Jensen, “Effects of Lombard reflex on the performance of deep-learning-based audio-visual speech enhancement systems,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.06250.pdf) [[demo]](https://vbn.aau.dk/en/activities/demo-effects-of-lombard-reflex-on-deep-learning-based-audio-visua)
 
+* R. Mira, B. Xu, J. Donley, A. Kumar, S. Petridis, V. K. Ithapu and M. Pantic, "LA-VocE: Low-SNR Audio-visual Speech Enhancement using Neural Vocoders," arXiv preprint arXiv:2211.10999, 2022. [[paper]](https://arxiv.org/pdf/2211.10999.pdf) *
+
 * J. F. Montesinos, V. S. Kadandale, and G. Haro, “VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer,” arXiv preprint arXiv:2203.04099, 2022. [[paper]](https://arxiv.org/pdf/2203.04099.pdf) [[demo]](https://ipcv.github.io/VoViT/demos/) [[code]](https://github.com/JuanFMontesinos/VoViT) [[project page]](https://ipcv.github.io/VoViT/) *
 
 * G. Morrone, S. Bergamaschi, L. Pasa, L. Fadiga, V. Tikhanoff, and L. Badino, “Face landmark-based speaker-independent audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2019. [[paper]](https://arxiv.org/pdf/1811.02480.pdf) [[project page]](https://dr-pato.github.io/audio_visual_speech_enhancement/) [[demo]](https://www.youtube.com/watch?v=YQ0q-OFphKM&feature=emb_title) [[other demos]](https://dr-pato.github.io/audio_visual_speech_enhancement/) [[code]](https://github.com/dr-pato/audio_visual_speech_enhancement)
@@ -243,6 +245,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 * M. Sadeghi, S. Leglaive, X. Alameda-Pineda, L. Girin, and R. Horaud, “Audio-visual speech enhancement using conditional variational autoencoders,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1788–1800, 2020. [[paper]](https://arxiv.org/pdf/1908.02590.pdf) [[project page]](https://team.inria.fr/perception/research/av-vae-se/) [[demo]](https://team.inria.fr/perception/research/av-vae-se/) [[code]](https://gitlab.inria.fr/smostafa/avse-vae)
 
 * H. Sato, T. Ochiai, K. Kinoshita, M. Delcroix, T. Nakatani and S. Araki. “Multimodal attention fusion for target speaker extraction,” in Proc. of SLT, 2021. [[paper]](https://arxiv.org/pdf/2102.01326.pdf) [[project page]](http://www.kecl.ntt.co.jp/icl/signal/member/demo/audio_visual_speakerbeam.html) [[demo]](http://www.kecl.ntt.co.jp/icl/signal/member/demo/audio_visual_speakerbeam.html) *
+
+* R. Sharma, W. He, J. Lin, E. Lakomkin, Y. Liu and K. Kalgaonkar. "Egocentric audio-visual noise suppression," arXiv preprint arXiv:2211.03643, 2022. [[paper]](https://arxiv.org/pdf/2211.03643.pdf) *
 
 * S. S. Shetu, S. Chakrabarty, and E. A. P. Habets, “An empirical study of visual features for DNN based audio-visual speech enhancement in multi-talker environments,” in Proc. of ICASSP, 2021. [[paper]](https://arxiv.org/pdf/2011.04359.pdf) *
 
