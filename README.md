@@ -361,6 +361,8 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 ## Related Overview Articles
 
+* P. Ochieng, "Deep neural network techniques for monaural speech enhancement: state of the art analysis," arXiv preprint arXiv:2212.00369, 2022. [[paper]](https://arxiv.org/pdf/2212.00369.pdf)
+
 * J. Rincón-Trujillo and D. M. Córdova-Esparza, “Analysis of speech separation methods based on deep learning,” International Journal of Computer Applications, vol. 148, no. 9, pp. 21–29, 2019. [[paper]](https://pdfs.semanticscholar.org/887e/a4a6101cbd3d76dbd031dd7ed96604c4deb0.pdf)
 
 * B. Rivet, W. Wang, S. M. Naqvi, and J. A. Chambers, “Audiovisual speech source separation: An overview of key methodologies,” IEEE Signal Processing Magazine, vol. 31, no. 3, pp. 125–134, 2014. [[paper]](https://ieeexplore.ieee.org/abstract/document/6784034)
