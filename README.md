@@ -375,7 +375,7 @@ B. Ricaud, “Evaluating audiovisual source separation in the context of video c
 
 ## Challenges
 
-* 1st COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE) [[challenge page]](https://challenge.cogmhear.org/#/) [[baseline code]](https://github.com/cogmhear/avse_challenge) *
+* 1st COG-MHEAR Audio-Visual Speech Enhancement Challenge (AVSE) [[challenge page]](https://challenge.cogmhear.org/#/) [[baseline code]](https://github.com/cogmhear/avse_challenge) [[paper]](https://www.pure.ed.ac.uk/ws/portalfiles/portal/305863115/AVSE_Challenge_ALDANA_DOA30092022_AFV.pdf) *
 
 
 
