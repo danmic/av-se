@@ -175,6 +175,9 @@ separation,” in Proc. of Interspeech, 2018. [[paper]](https://arxiv.org/pdf/18
 
 * J.-C. Hou, S.-S. Wang, Y.-H. Lai, J.-C. Lin, Y. Tsao, H.-W. Chang, and H.-M. Wang, “Audio-visual speech enhancement using deep neural networks,” in Proc. of APSIPA, 2016. [[paper]](https://www.citi.sinica.edu.tw/papers/yu.tsao/5427-F.pdf)
 
+* W.-N. Hsu, T. Remez, B. Shi, J. Donley, and Y. Adi, “ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Enhancement,” arXiv preprint arXiv:2212.11377, 2022. [[paper]](https://arxiv.org/pdf/2212.11377.pdf) [[project page]](https://wnhsu.github.io/ReVISE) * 
+
+
 * A. Hussain, J. Barker, R. Marxer, A. Adeel, W. Whitmer, R. Watt, and P. Derleth, “Towards multi-modal hearing aid design and evaluation in realistic audio-visual settings: Challenges and opportunities,” in Proc. of CHAT, 2017. [[paper]](http://spandh.dcs.shef.ac.uk/chat2017/papers/CHAT_2017_hussain.pdf) 
 
 * T. Hussain, M. Gogate, K. Dashtipour, and A. Hussain, “Towards intelligibility-oriented audio-visual speech enhancement,” arXiv preprint arXiv:2111.09642, 2021. [[paper]](https://arxiv.org/pdf/2111.09642.pdf) *
