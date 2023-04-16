@@ -24,7 +24,10 @@ If you like and use this work, please :star: and consider citing our overview ar
 - [Audio-Visual Speech Enhancement and Separation](#audio-visual-speech-enhancement-and-separation)
 - [Speech Reconstruction from Silent Videos](#speech-reconstruction-from-silent-videos)
 - [Audio-Visual Sound Source Separation for Non-Speech Signals](#audio-visual-sound-source-separation-for-non-speech-signals)
+- [Audio-Visual Speech Inpainting](#audio-visual-speech-inpainting)
 - [Related Overview Articles](#related-overview-articles)
+- [Challenges](#challenges)
+- [Interactive Documentary](#interactive-documentary)
 
 
 ## Audio-Visual Speech Corpora
